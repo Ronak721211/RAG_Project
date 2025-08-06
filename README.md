@@ -1,2 +1,2 @@
-# RAG_Project
-RAG Project using FAISS, Gemini API, Langchain Framework and Streamlit UI
+const ai = new GoogleGenAI({ apiKey: "AIzaSyAwpJLCfzAwia_ElKkO0y4JBcHadMBxWXI" });
+AIzaSyAwpJLCfzAwia_ElKkO0y4JBcHadMBxWXI
